@@ -1,8 +1,6 @@
 # Nand Thaker
 CS student focused on backend systems, AI tooling, and performance-oriented software.
 
-> I care more about systems that scale cleanly than flashy demos.
-
 ## Tech Stack
 
 **Languages**
@@ -27,3 +25,5 @@ CS student focused on backend systems, AI tooling, and performance-oriented soft
 - **AI Model Router** – Routes prompts to different LLMs based on complexity and cost
 - **Intern Application Tracker** – Full-stack system with auth, persistence, and analytics
 - **Macro Maker** – A Python tool that takes keyboard and mouse inputs and stores them as a macro
+
+> I care more about systems that scale cleanly than flashy demos.
