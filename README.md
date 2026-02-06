@@ -8,7 +8,7 @@ CS student focused on backend systems, AI tooling, and performance-oriented soft
 ![Python](https://img.shields.io/badge/python-white?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c)
+![C](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=black)
 
 **Frameworks & Tools**
 
