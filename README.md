@@ -24,7 +24,7 @@ CS student focused on backend systems, AI tooling, and performance-oriented soft
 
 ## Selected Projects
 - **AI Model Router** – Routes prompts to different LLMs based on complexity and cost
-- **Intern Application Tracker** – Full-stack system with auth, persistence, and analytics
+- **Intern Application Tracker** – WIP
 - **Macro Recorder** – A Python tool that takes keyboard and mouse inputs and stores them as a macro
 
 > I care more about systems that scale cleanly than flashy demos.
