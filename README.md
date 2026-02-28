@@ -21,10 +21,5 @@ CS student focused on backend systems, AI tooling, and performance-oriented soft
 - AI-powered systems that route, evaluate, or transform prompts
 - Backend APIs with clean architecture and performance constraints
 - Automation tools that remove manual work
-
-## Selected Projects
-- **AI Model Router** – Routes prompts to different LLMs based on complexity and cost
-- **Intern Application Tracker** – WIP
-- **Macro Recorder** – A Python tool that takes keyboard and mouse inputs and stores them as a macro
-
+- 
 > I care more about systems that scale cleanly than flashy demos.
