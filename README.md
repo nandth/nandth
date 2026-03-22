@@ -21,5 +21,5 @@ CS student focused on backend systems, AI tooling, and performance-oriented soft
 - AI-powered systems that route, evaluate, or transform prompts
 - Backend APIs with clean architecture and performance constraints
 - Automation tools that remove manual work
-- 
+
 > I care more about systems that scale cleanly than flashy demos.
