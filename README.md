@@ -6,4 +6,3 @@
                 ||     ||
 ```
 
-currently learning cpp
